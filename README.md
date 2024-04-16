@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/chandragupt-mehata/multi_module.git
 Open the project in Android Studio.
 
 Explore the different modules and their functionalities.
