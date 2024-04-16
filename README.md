@@ -1,15 +1,15 @@
 # multi_module
-This project demonstrates how to structure an Android application as a multi-module project, separating different parts of the app into distinct modules for improved organization and reusability.
+**This project demonstrates how to structure an Android application as a multi-module project, separating different parts of the app into distinct modules for improved organization and reusability.**
 
-Modules
+**Modules**
 app: The main application module that serves as the entry point for the app.
 modulea: A feature module containing specific functionality or screens.
 moduleb: A library module containing reusable code and resources.
 
-Usage
+**Usage**
 To use this project:
 
-Clone the repository:
+**Clone the repository:**
 
 bash
 Copy code
@@ -20,7 +20,7 @@ Explore the different modules and their functionalities.
 
 Refer to the individual module README files for more detailed information.
 
-Moduleb
+**Moduleb**
 Moduleb is a library module that provides reusable code and resources. It is published to both a local and remote Maven repository for easy integration into other projects.
 
 Integration
